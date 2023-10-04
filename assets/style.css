@@ -8,13 +8,13 @@ body {
 min-height: 100vh;
 display: flex;
 flex-direction: column;
-color: aliceblue;
+color: rgb(255, 255, 255);
 }
 
 main {
 flex: 1 0 auto;
-background-color: rgb(255, 255, 255);
-}
+margin-top: 37px;
+background-color: blueviolet;}
 
 header {
 background-color: rgb(0, 0, 0);
@@ -28,6 +28,12 @@ justify-content: space-evenly;
 align-items: baseline;
 }
 
+.logo {
+letter-spacing: 1px;
+font-size: large;
+margin-bottom: 8px;
+margin-top: 8px;
+}
 header a {
 text-decoration: none;
 color: inherit;
@@ -52,8 +58,13 @@ box-shadow: rgba(0, 0, 0, 0.486) 0px 7px 6px;
 left: 0;
 padding: 0 2rem;
 display: none;
+top: 100%;
 }
 
 #nav-toggle:checked~nav {
 display: block;
+}
+
+#nav-toggle {
+display: none;
 }
