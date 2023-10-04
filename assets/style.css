@@ -12,13 +12,19 @@ flex-direction: column;
 
 main {
 flex: 1 0 auto;
+background-color: rgb(253, 0, 0);
 }
 
 header {
-background-color: rgba(0, 0, 0, 0.74);
+background-color: rgb(126, 116, 116);
 padding: 0 2rem;
 position:fixed;
 z-index: 99;
 width: 100%;
-box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 15px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 5px;
+}
+
+header a {
+text-decoration: none;
+color: inherit;
 }
