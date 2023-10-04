@@ -70,3 +70,21 @@ display: block;
 #nav-toggle {
 display: none;
 }
+
+@media screen and (min-width: 768px) {
+nav{
+display: block;
+position: relative;
+box-shadow: none;
+width: fit-content;
+padding-right: 2rem;
+}
+
+#menu {
+display: flex;
+}
+
+#menu > li {
+padding-left: 1.5rem;
+}
+}
