@@ -53,3 +53,7 @@ left: 0;
 padding: 0 2rem;
 display: none;
 }
+
+#nav-toggle:checked~nav {
+display: block;
+}
