@@ -20,4 +20,5 @@ padding: 0 2rem;
 position:fixed;
 z-index: 99;
 width: 100%;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 15px;
 }
