@@ -2,7 +2,6 @@
 * {
 padding: 0;
 margin: 0;
-box-sizing: border;
 }
 
 body {
@@ -30,6 +29,23 @@ display:flex;
 justify-content: space-evenly;
 align-items: baseline;
 }
+
+form {text-align: center;}
+
+input[type=text], select {
+width: 90%;
+padding: 6px;
+border-radius: 5px;
+border: 1px solid black;
+}
+
+input[type=email], select {
+width: 90%;
+padding: 6px;
+border-radius: 5px;
+border: 1px solid black;
+}
+
 
 footer {
 background-color: black;
