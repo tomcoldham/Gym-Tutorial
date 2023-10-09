@@ -131,6 +131,12 @@ font-size: 200%;
 padding: 0 1.5rem;
 }
 
+#exerciseimage1 {
+width: 100px;
+height: 100px;
+
+}
+
 
 @media screen and (min-width: 768px) {
 nav{
