@@ -86,6 +86,7 @@ font-size: large;
 margin-bottom: 8px;
 margin-top: 8px;
 }
+
 header a {
 text-decoration: none;
 color: inherit;
@@ -120,6 +121,16 @@ display: block;
 #nav-toggle {
 display: none;
 }
+
+#intro {
+text-align: center;
+font-size: 200%;
+}
+
+#introparagraph {
+padding: 0 1.5rem;
+}
+
 
 @media screen and (min-width: 768px) {
 nav{
