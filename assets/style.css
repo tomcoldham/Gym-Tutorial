@@ -132,9 +132,13 @@ padding: 0 1.5rem;
 }
 
 #exerciseimage1 {
-width: 100px;
-height: 100px;
-
+width: 80%;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 12px;
+border: 5px solid white;
 }
 
 
