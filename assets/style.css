@@ -133,7 +133,9 @@ font-size: 200%;
 padding: 0 1.5rem;
 }
 
-
+h2 {
+padding: 1rem;
+}
 
 #exerciseimage1 {
 width: 85%;
