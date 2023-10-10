@@ -133,13 +133,16 @@ font-size: 200%;
 padding: 0 1.5rem;
 }
 
+
+
 #exerciseimage1 {
-width: 80%;
-height: 200px;
+width: 85%;
+height: 250px;
 display: block;
 margin-left: auto;
 margin-right: auto;
-margin-top: 12px;
+margin-top: 30px;
+margin-bottom: 30px;
 border: 5px solid white;
 }
 
