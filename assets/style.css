@@ -179,4 +179,21 @@ margin-left: 0px;
 
 main {margin-top: 58px;
 }
+
+}
+
+@media screen and (min-width: 1024px) {
+article {width: 50%;
+font-size: 160%;
+margin:auto;
+}
+
+form {width: 50%;
+margin:auto;
+}
+
+.imglarge {
+width: 100%;
+height: 100%;
+}
 }
