@@ -60,7 +60,12 @@ border-radius: 50px;
 padding: 5px;
 font-size: 115%;
 margin-top: 20px;
-margin-bottom: 20px;}
+margin-bottom: 20px;
+}
+
+button:hover {
+background-color: darkgreen;
+}
 
 footer {
 background-color: black;
@@ -190,6 +195,14 @@ margin-left: 0px;
 }
 
 main {margin-top: 64px;
+}
+
+hr {
+    display: none;
+}
+
+h2 {
+    text-decoration: underline;
 }
 
 }
