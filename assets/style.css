@@ -159,12 +159,19 @@ padding-right: 2rem;
 background-color: rgba(0, 0, 0, 0.671);
 }
 
+article {
+    width: 60%;
+    font-size: 140%;
+    margin: auto;
+}
+
 #menu {
 display: flex;
 }
 
 #menu > li {
 padding-left: 1.5rem;
+font-size: 150%;
 }
 
 .nav-toggle-label {
@@ -172,12 +179,12 @@ display: none;
 }
 
 .logo {
-font-size: 175%;
+font-size: 200%;
 text-transform: uppercase;
 margin-left: 0px;
 }
 
-main {margin-top: 58px;
+main {margin-top: 64px;
 }
 
 }
