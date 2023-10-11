@@ -165,6 +165,11 @@ article {
     margin: auto;
 }
 
+form {
+    width: 60%;
+    margin: auto;
+}
+
 #menu {
 display: flex;
 }
@@ -195,7 +200,7 @@ font-size: 140%;
 margin:auto;
 }
 
-form {width: 50%;
+form {width: 60%;
 margin:auto;
 }
 
@@ -209,6 +214,15 @@ margin-top: 71px;
 }
 
 #menu > li {
-font-size: 150%;
+font-size: 160%;
 }
+
+hr {
+display:none;
+}
+
+h2 {
+text-decoration: underline;
+}
+
 }
