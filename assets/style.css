@@ -1,241 +1,259 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
 * {
-padding: 0;
-margin: 0;
+    padding: 0;
+    margin: 0;
 }
 
 body {
-min-height: 100vh;
-display: flex;
-flex-direction: column;
-color: rgb(255, 255, 255);
-font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    font-family: "Poppins", sans-serif;
 }
 
 main {
-flex: 1 0 auto;
-margin-top: 43px;
+    flex: 1 0 auto;
+    margin-top: 43px;
 
 }
 
 #hero {
-height: auto 0;
-width: 100%;
-background: url("../assets/images/pexels-victor-freitas-841130.jpg") no-repeat center center/cover;
+    height: auto 0;
+    width: 100%;
+    background: url("../assets/images/pexels-victor-freitas-841130.jpg") no-repeat center center/cover;
 }
 
 header {
-background-color: rgb(0, 0, 0);
-padding: 0 2rem;
-position:fixed;
-z-index: 99;
-width: 100%;
-box-shadow: rgba(0, 0, 0, 0.527) 0px 7px 6px;
-display:flex;
-justify-content: space-evenly;
-align-items: baseline;
+    background-color: rgb(0, 0, 0);
+    padding: 0 2rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.527) 0px 7px 6px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
 }
 
-form {text-align: center;}
-
-input[type=text], select {
-width: 90%;
-padding: 6px;
-border-radius: 5px;
-border: 1px solid black;
+form {
+    text-align: center;
 }
 
-input[type=email], select {
-width: 90%;
-padding: 6px;
-border-radius: 5px;
-border: 1px solid black;
+input[type=text],
+select {
+    width: 90%;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+input[type=email],
+select {
+    width: 90%;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 input[type=submit] {
-width: 50%;
-background-color: rgb(44, 160, 29);
-color: black;
-border-radius: 50px;
-padding: 5px;
-font-size: 115%;
-margin-top: 20px;
-margin-bottom: 20px;
+    width: 50%;
+    background-color: rgb(44, 160, 29);
+    color: black;
+    border-radius: 50px;
+    padding: 5px;
+    font-size: 115%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
-button:hover {
-background-color: darkgreen;
+#hover:hover {
+    background-color: darkgreen;
+}
+
+a:hover {
+    color: red;
+}
+
+.active {
+text-decoration: underline;
 }
 
 footer {
-background-color: black;
+    background-color: black;
 }
 
 .icons {
-display: flex;
-justify-content: space-evenly;
-list-style-type: none;
-padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 15px;
 }
 
-footer > h4,p {
-text-align: center;
+footer>h4,
+p {
+    text-align: center;
 }
 
 .icons i {
-color:white;
-font-size:x-large;
+    color: white;
+    font-size: x-large;
 }
 
 .logo {
-letter-spacing: 1px;
-font-size: large;
-margin-bottom: 8px;
-margin-top: 8px;
+    letter-spacing: 1px;
+    font-size: large;
+    margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 header a {
-text-decoration: none;
-color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 #menu {
-list-style-type: none;
-font-size: 85%;
-letter-spacing: 2px;
+    list-style-type: none;
+    font-size: 85%;
+    letter-spacing: 2px;
 }
 
-#menu > li {
-margin-bottom: 0.5em;
+#menu>li {
+    margin-bottom: 0.5em;
 }
 
 nav {
-position: absolute;
-background-color: rgb(0, 0, 0);
-width: 100%;
-align-items: baseline;
-box-shadow: rgba(0, 0, 0, 0.486) 0px 7px 6px;
-left: 0;
-padding: 0 2rem;
-display: none;
-top: 100%;
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    align-items: baseline;
+    box-shadow: rgba(0, 0, 0, 0.486) 0px 7px 6px;
+    left: 0;
+    padding: 0 2rem;
+    display: none;
+    top: 100%;
 }
 
 #nav-toggle:checked~nav {
-display: block;
+    display: block;
 }
 
 #nav-toggle {
-display: none;
+    display: none;
 }
 
 #intro {
-text-align: center;
-font-size: 200%;
+    text-align: center;
+    font-size: 200%;
 }
 
 #introparagraph {
-padding: 0 1.5rem;
+    padding: 0 1.5rem;
 }
 
 h2 {
-padding: 1rem;
+    padding: 1rem;
 }
 
 #exerciseimage1 {
-width: 85%;
-height: 250px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-margin-top: 30px;
-margin-bottom: 30px;
-border: 5px solid white;
+    width: 85%;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 5px solid white;
 }
 
 
 @media screen and (min-width: 768px) {
-nav{
-display: block;
-position: relative;
-box-shadow: none;
-width: fit-content;
-padding-right: 2rem;
-background-color: rgba(0, 0, 0, 0.671);
-}
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 2rem;
+        background-color: rgba(0, 0, 0, 0.671);
+    }
 
-article {
-    width: 60%;
-    font-size: 140%;
-    margin: auto;
-}
+    article {
+        width: 60%;
+        font-size: 140%;
+        margin: auto;
+    }
 
-form {
-    width: 60%;
-    margin: auto;
-}
+    form {
+        width: 60%;
+        margin: auto;
+    }
 
-#menu {
-display: flex;
-}
+    #menu {
+        display: flex;
+    }
 
-#menu > li {
-padding-left: 1.5rem;
-font-size: 150%;
-}
+    #menu>li {
+        padding-left: 1.5rem;
+        font-size: 150%;
+    }
 
-.nav-toggle-label {
-display: none;
-}
+    .nav-toggle-label {
+        display: none;
+    }
 
-.logo {
-font-size: 200%;
-text-transform: uppercase;
-margin-left: 0px;
-}
+    .logo {
+        font-size: 200%;
+        text-transform: uppercase;
+        margin-left: 0px;
+    }
 
-main {margin-top: 64px;
-}
+    main {
+        margin-top: 64px;
+    }
 
-hr {
-    display: none;
-}
+    hr {
+        display: none;
+    }
 
-h2 {
-    text-decoration: underline;
-}
+    h2 {
+        text-decoration: underline;
+    }
 
 }
 
 @media screen and (min-width: 1024px) {
-article {width: 50%;
-font-size: 140%;
-margin:auto;
-}
+    article {
+        width: 50%;
+        font-size: 140%;
+        margin: auto;
+    }
 
-form {width: 60%;
-margin:auto;
-}
+    form {
+        width: 60%;
+        margin: auto;
+    }
 
-.logo {
-    font-size: 225%;
-    text-transform: uppercase;
-    margin-left: 0px;
-}
-main {
-margin-top: 71px;
-}
+    .logo {
+        font-size: 225%;
+        text-transform: uppercase;
+        margin-left: 0px;
+    }
 
-#menu > li {
-font-size: 160%;
-}
+    main {
+        margin-top: 71px;
+    }
 
-hr {
-display:none;
-}
+    #menu>li {
+        font-size: 160%;
+    }
 
-h2 {
-text-decoration: underline;
-}
+    hr {
+        display: none;
+    }
+
+    h2 {
+        text-decoration: underline;
+    }
 
 }
