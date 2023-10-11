@@ -70,9 +70,11 @@ input[type=submit] {
 
 #hover:hover {
     background-color: darkgreen;
+    transform: scale(1.4);
 }
 
 a:hover {
+    font-size: 130%;
     color: red;
 }
 
