@@ -164,7 +164,7 @@ h2 {
     padding: 1rem;
 }
 
-#exerciseimage1 {
+.exerciseimage1 {
     width: 85%;
     height: 250px;
     display: block;
@@ -172,7 +172,7 @@ h2 {
     margin-right: auto;
     margin-top: 30px;
     margin-bottom: 30px;
-    border: 5px solid white;
+    border: 5px solid rgb(17, 16, 16);
 }
 
 
@@ -269,6 +269,10 @@ h2 {
 
     h2 {
         text-decoration: underline;
+    }
+
+    #exerciseimage2 {
+    
     }
 
     
