@@ -70,7 +70,7 @@ input[type=submit] {
 
 #hover:hover {
     background-color: darkgreen;
-    transform: scale(1.4);
+    transform: scale(1.2);
 }
 
 a:hover {
@@ -79,7 +79,7 @@ a:hover {
 }
 
 .active {
-text-decoration: underline;
+    text-decoration: underline;
 }
 
 footer {
@@ -93,7 +93,7 @@ footer {
     padding: 15px;
 }
 
-footer>h4,
+footer>h3,
 p {
     text-align: center;
 }
@@ -187,7 +187,7 @@ h2 {
     }
 
     form {
-        width: 60%;
+        width: 85%;
         margin: auto;
     }
 
@@ -222,13 +222,22 @@ h2 {
         text-decoration: underline;
     }
 
+    footer>h3,
+    p {
+        font-size: 125%;
+    }
+
 }
 
 @media screen and (min-width: 1024px) {
     article {
         width: 50%;
-        font-size: 140%;
+        font-size: 120%;
         margin: auto;
+    }
+
+    article>img {
+        height: 500px;
     }
 
     form {
@@ -258,4 +267,5 @@ h2 {
         text-decoration: underline;
     }
 
+    
 }
