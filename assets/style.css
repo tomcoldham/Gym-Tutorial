@@ -156,7 +156,7 @@ nav {
     font-size: 200%;
 }
 
-#introparagraph {
+.introparagraph {
     padding: 0 1.5rem;
 }
 
@@ -187,8 +187,8 @@ h2 {
     }
 
     article {
-        width: 60%;
-        font-size: 140%;
+        width: 70%;
+        font-size: 125%;
         margin: auto;
     }
 
@@ -233,12 +233,13 @@ h2 {
         font-size: 125%;
     }
 
+
 }
 
 @media screen and (min-width: 1024px) {
     article {
-        width: 50%;
-        font-size: 120%;
+        width: 40%;
+        font-size: 110%;
         margin: auto;
     }
 
