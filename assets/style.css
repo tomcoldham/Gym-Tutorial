@@ -25,6 +25,12 @@ main {
     background: url("../assets/images/pexels-victor-freitas-841130.jpg") no-repeat center center/cover;
 }
 
+#contentbk {
+height: auto 0;
+width: 100%;
+background-color: slategray;
+}
+
 header {
     background-color: rgb(0, 0, 0);
     padding: 0 2rem;
@@ -236,9 +242,6 @@ h2 {
         margin: auto;
     }
 
-    article>img {
-        height: 500px;
-    }
 
     form {
         width: 60%;
