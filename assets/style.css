@@ -20,13 +20,13 @@ main {
 }
 
 #hero {
-    height: auto 0;
+    height: auto;
     width: 100%;
     background: url("../assets/images/pexels-victor-freitas-841130.jpg") no-repeat center center/cover;
 }
 
 #contentbk {
-height: auto 0;
+height: auto;
 width: 100%;
 background-color: slategray;
 }
