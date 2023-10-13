@@ -16,7 +16,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
 -Contrasting text colour and background colour make it easy to read. on smaller screens the navigation bar collapses into a menu to save space.
 -css styling has been used to show which page the user is currently on and also navigation links are highlighted when the user hovers over them for a better use experience
 
-![Navigation] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture.PNG>
+![Navigation](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/navbar.png)
 
 - __The Intro page__
 
@@ -24,20 +24,20 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It also contains a background image to catch the users intention. a darker image has been used to contrast against the white text.
   - A survey is also contained at the bottom which gives the user an element of interactivity and so their details can be collected.
   
-![Intro-page] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture2.PNG>
+![Intro-page]
 
 - __Pull day__
 
   - This provides the user with one of the three workout programmes. Like the other pages it contains a breif description of a pull day, as well 3 exercises
   - Eech exercise contains an image, some tips and a brief description to teach the user.
 
-![Pull-day] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/capture3.PNG>
+![Pull-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/capture3.PNG)
 
 - __Push Day__
 
   - This page follows suit but with a different workout day with different exercises, like the push day all exercises come with a brief description an image and also tips for the user to grasp a basic understanding.
 
-![Push-day] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture4.PNG>
+![Push-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture4.PNG)
 
 -__Leg Day__
 
@@ -52,7 +52,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It contains the links to the main social media websites and opens them in a new tab when clicked on for a better user experience.
   - Contact information such as an email and a phone number is provided to give the site a personal touch.
 
-
+![Footer] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture6.PNG>
 
 ## Testing
 
