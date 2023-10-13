@@ -6,7 +6,7 @@ own unique workout plans for different days as well as a survey where users can 
 Each of the 3 pages contains simple workout plans with pictures, tips and instructions so that the user can learn what exercises to do and how to do them properly.
 Primary audience would be anyone is a beginner at working out and is looking for something simple to follow and to gain confidence.
 
-![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup]
 
 ## Features
 
@@ -16,7 +16,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
 -Contrasting text colour and background colour make it easy to read. on smaller screens the navigation bar collapses into a menu to save space.
 -css styling has been used to show which page the user is currently on and also navigation links are highlighted when the user hovers over them for a better use experience
 
-![Navigation] (<https://github.com/tomcoldham/Gym-Tutorial/assets/145606536/d05750d8-7244-43d7-83a5-5b4f7114eed2>)
+![Navigation]
 
 - __The Intro page__
 
@@ -24,7 +24,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It also contains a background image to catch the users intention. a darker image has been used to contrast against the white text.
   - A survey is also contained at the bottom which gives the user an element of interactivity and so their details can be collected.
   
-![Intro-page] (https://github.com/tomcoldham/Gym-Tutorial/assets/145606536/f62f8e8f-9316-49f5-a91c-5065d9463e56)
+![Intro-page]
 
 - __Pull day__
 
@@ -52,7 +52,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It contains the links to the main social media websites and opens them in a new tab when clicked on for a better user experience.
   - Contact information such as an email and a phone number is provided to give the site a personal touch.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+
 
 ## Testing
 
@@ -94,4 +94,5 @@ The live link can be found here - <https://tomcoldham.github.io/Gym-Tutorial/ind
 - The code to make the navigation bar was taken from the love running project also.
   
 ### Media
+
 Background image on intro page and all images on content pages were from <https://pexels.com>
