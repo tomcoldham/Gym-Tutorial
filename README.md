@@ -6,7 +6,7 @@ own unique workout plans for different days as well as a survey where users can 
 Each of the 3 pages contains simple workout plans with pictures, tips and instructions so that the user can learn what exercises to do and how to do them properly.
 Primary audience would be anyone is a beginner at working out and is looking for something simple to follow and to gain confidence.
 
-![Responsive-Mockup]
+![Responsive-Mockup](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/allsizes.png)
 
 ## Features
 
@@ -28,8 +28,8 @@ Primary audience would be anyone is a beginner at working out and is looking for
 
 - __Pull day__
 
-  - This provides the user with one of the three workout programmes. Like the other pages it contains a breif description of a pull day, as well 3 exercises
-  - Eech exercise contains an image, some tips and a brief description to teach the user.
+  - This provides the user with one of the three workout programmes. Like the other pages it contains a breif description of a pull day, as well as 3 exercises
+  - Each exercise contains an image, some tips and a brief description to teach the user.
 
 ![Pull-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/pullday.PNG)
 
@@ -59,7 +59,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
 - Testing has been done to make sure the website looks good on all screen sizes, by using the device bar in devtools.
 - Text is easy to read and images have been resized on larger screen sizes to fit better.
 - The website is easy to use, navigate and provides clear instruction on what the content is.
-Content on pages has been seperated through lines or underlining headers to the reader has a clear idea of which part corresponds with what.
+- Content on pages has been seperated through lines or underlining headers so the reader has a clear idea of which part corresponds with what.
 - The form works and has the relevant requirements for example an @ must be used in the email.
 
 ### Validator Testing
