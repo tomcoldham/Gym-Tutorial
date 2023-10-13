@@ -1,39 +1,97 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Gym Tutorial
 
-Welcome,
+The Gym tutorial is a website made for people who are new to the gym and are looking to kick start their fitness journey. It contains different pages which have their
+own unique workout plans for different days as well as a survey where users can enter their details to win a free supplements.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Each of the 3 pages contains simple workout plans with pictures, tips and instructions so that the user can learn what exercises to do and how to do them properly.
+Primary audience would be anyone is a beginner at working out and is looking for something simple to follow and to gain confidence.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
-## Codeanywhere Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+-__Navigation__
 
-`python3 -m http.server`
+-The navigation section is located conviently at the top of the page. It contains links to all the different pages on the website and is visible on each page.
+-Contrasting text colour and background colour make it easy to read. on smaller screens the navigation bar collapses into a menu to save space.
+-css styling has been used to show which page the user is currently on and also navigation links are highlighted when the user hovers over them for a better use experience
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+![Navigation] (<https://github.com/tomcoldham/Gym-Tutorial/assets/145606536/d05750d8-7244-43d7-83a5-5b4f7114eed2>)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- __The Intro page__
 
-`http_server`
+  - The intro page is self explanatory and provides the user a brief introduction to the contents of the website as well as some benefits of the gym.
+  - It also contains a background image to catch the users intention. a darker image has been used to contrast against the white text.
+  - A survey is also contained at the bottom which gives the user an element of interactivity and so their details can be collected.
+  
+![Intro-page] (https://github.com/tomcoldham/Gym-Tutorial/assets/145606536/f62f8e8f-9316-49f5-a91c-5065d9463e56)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- __Pull day__
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+  - This provides the user with one of the three workout programmes. Like the other pages it contains a breif description of a pull day, as well 3 exercises
+  - Eech exercise contains an image, some tips and a brief description to teach the user.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+![Pull day]
 
-To log into the Heroku toolbelt CLI:
+- __Push Day__
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  - This page follows suit but with a different workout day with different exercises, like the push day all exercises come with a brief description an image and also tips for the user to grasp a basic understanding.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![Push day]
 
----
+-__Leg Day__
 
-Happy coding!
+- Last is the leg day, again it contains 3 exercises for users to follow with the same level of information provided.
+- Content is divided clearly so the reader has an easy time following which tips and instructions belong with what exercise.
+
+![Leg Day]
+
+- __The Footer__
+
+  - The footer section has been styled to match the colours of the navigation bar for a pleasing look.
+  - It contains the links to the main social media websites and opens them in a new tab when clicked on for a better user experience.
+  - Contact information such as an email and a phone number is provided to give the site a personal touch.
+
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+
+## Testing
+
+-Testing has been done to make sure the website looks good on all screen sizes, by using the device bar in devtools.
+-Text is easy to read and images have been resized on larger screen sizes to fit better.
+-The website is easy to use, navigate and provides clear instruction on what the content is.
+Content on pages has been seperated through lines or underlining headers to the reader has a clear idea of which part corresponds with what.
+-The form works and has the relevant requirements for example an @ must be used in the email.
+
+### Validator Testing
+
+- HTML
+  - No errors were returned when passing through the official W3C validator
+- CSS
+  - No errors were found when passing through the official (Jigsaw) validator
+- lighthouse
+  -Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was 50-60 due to images.
+
+### Unfixed Bugs
+
+No bugs as far as i am aware. Images didn't load on the first time on deployed website due to wrong code but that has been fixed.
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - Under code and automation, click on pages.
+  - Make sure source is on 'deployed from branch' then under 'branch' select 'main' and /root and click save.
+  - Go back on the repository and on the right hand sart of the screen theres a section called deployments.
+  - Click on deployments and there will be the deployed website to view.
+  
+The live link can be found here - <https://tomcoldham.github.io/Gym-Tutorial/index.html>
+
+## Credits
+
+### Content
+
+- The code to make the social media links was taken from the love running project.
+- The code to make the navigation bar was taken from the love running project also.
+  
+### Media
+Background image on intro page and all images on content pages were from <https://pexels.com>
