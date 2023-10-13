@@ -22,13 +22,13 @@ main {
 #hero {
     height: auto;
     width: 100%;
-    background: url("../assets/images/pexels-victor-freitas-841130.jpg") no-repeat center center/cover;
+    background: url("../assets/images/finalbackground.jpg") no-repeat center center/cover;
 }
 
 #contentbk {
-height: auto;
-width: 100%;
-background-color: slategray;
+    height: auto;
+    width: 100%;
+    background-color: slategray;
 }
 
 header {
@@ -217,8 +217,8 @@ h2 {
     }
 
     .exerciseimage1 {
-            height: 400px;
-        }
+        height: 400px;
+    }
 
     main {
         margin-top: 64px;
@@ -276,9 +276,9 @@ h2 {
     }
 
     .exerciseimage1 {
-    height: 500px;
+        height: 500px;
     }
 
 
-    
+
 }
