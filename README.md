@@ -69,7 +69,9 @@ Primary audience would be anyone is a beginner at working out and is looking for
 - CSS
   - No errors were found when passing through the official (Jigsaw) validator
 - lighthouse
-  - Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was 50-60 due to images.
+  - Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was lower due to images.
+  - 
+![Testing](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/footer.PNG)
 
 ### Unfixed Bugs
 
@@ -92,7 +94,7 @@ The live link can be found here - <https://tomcoldham.github.io/Gym-Tutorial/ind
 
 - The code to make the social media links was taken from the love running project.
 - The code to make the navigation bar was taken from the love running project also.
-- Inspiration of bits of code such as hover styling and button styling were found on coding websites and then restylised to suit website
+- Inspiration of bits of code such as hover styling and button styling were found on coding websites and then stylised to suit website.
   
 ### Media
 
