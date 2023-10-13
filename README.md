@@ -24,27 +24,27 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It also contains a background image to catch the users intention. a darker image has been used to contrast against the white text.
   - A survey is also contained at the bottom which gives the user an element of interactivity and so their details can be collected.
   
-![Intro-page]
+![Intro-page](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/intropage.PNG)
 
 - __Pull day__
 
   - This provides the user with one of the three workout programmes. Like the other pages it contains a breif description of a pull day, as well 3 exercises
   - Eech exercise contains an image, some tips and a brief description to teach the user.
 
-![Pull-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/capture3.PNG)
+![Pull-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/pullday.PNG)
 
 - __Push Day__
 
   - This page follows suit but with a different workout day with different exercises, like the push day all exercises come with a brief description an image and also tips for the user to grasp a basic understanding.
 
-![Push-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture4.PNG)
+![Push-day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/pushday.PNG)
 
 -__Leg Day__
 
 - Last is the leg day, again it contains 3 exercises for users to follow with the same level of information provided.
 - Content is divided clearly so the reader has an easy time following which tips and instructions belong with what exercise.
 
-![Leg-Day] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture5.PNG>
+![Leg-Day](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/legday.PNG)
 
 - __The Footer__
 
@@ -52,7 +52,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It contains the links to the main social media websites and opens them in a new tab when clicked on for a better user experience.
   - Contact information such as an email and a phone number is provided to give the site a personal touch.
 
-![Footer] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture6.PNG>
+![Footer](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/footer.PNG>)
 
 ## Testing
 
