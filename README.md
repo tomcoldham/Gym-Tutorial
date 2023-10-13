@@ -6,15 +6,15 @@ own unique workout plans for different days as well as a survey where users can 
 Each of the 3 pages contains simple workout plans with pictures, tips and instructions so that the user can learn what exercises to do and how to do them properly.
 Primary audience would be anyone is a beginner at working out and is looking for something simple to follow and to gain confidence.
 
-![Responsive Mockup]
+![Responsive-Mockup]
 
 ## Features
 
 -__Navigation__
 
--The navigation section is located conviently at the top of the page. It contains links to all the different pages on the website and is visible on each page.
--Contrasting text colour and background colour make it easy to read. on smaller screens the navigation bar collapses into a menu to save space.
--css styling has been used to show which page the user is currently on and also navigation links are highlighted when the user hovers over them for a better use experience
+- The navigation section is located conviently at the top of the page. It contains links to all the different pages on the website and is visible on each page.
+- Contrasting text colour and background colour make it easy to read. on smaller screens the navigation bar collapses into a menu to save space.
+- css styling has been used to show which page the user is currently on and also navigation links are highlighted when the user hovers over them for a better use experience
 
 ![Navigation](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/navbar.png)
 
@@ -52,15 +52,15 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It contains the links to the main social media websites and opens them in a new tab when clicked on for a better user experience.
   - Contact information such as an email and a phone number is provided to give the site a personal touch.
 
-![Footer](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/footer.PNG>)
+![Footer](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/footer.PNG)
 
 ## Testing
 
--Testing has been done to make sure the website looks good on all screen sizes, by using the device bar in devtools.
--Text is easy to read and images have been resized on larger screen sizes to fit better.
--The website is easy to use, navigate and provides clear instruction on what the content is.
+- Testing has been done to make sure the website looks good on all screen sizes, by using the device bar in devtools.
+- Text is easy to read and images have been resized on larger screen sizes to fit better.
+- The website is easy to use, navigate and provides clear instruction on what the content is.
 Content on pages has been seperated through lines or underlining headers to the reader has a clear idea of which part corresponds with what.
--The form works and has the relevant requirements for example an @ must be used in the email.
+- The form works and has the relevant requirements for example an @ must be used in the email.
 
 ### Validator Testing
 
@@ -69,7 +69,7 @@ Content on pages has been seperated through lines or underlining headers to the 
 - CSS
   - No errors were found when passing through the official (Jigsaw) validator
 - lighthouse
-  -Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was 50-60 due to images.
+  - Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was 50-60 due to images.
 
 ### Unfixed Bugs
 
@@ -92,6 +92,7 @@ The live link can be found here - <https://tomcoldham.github.io/Gym-Tutorial/ind
 
 - The code to make the social media links was taken from the love running project.
 - The code to make the navigation bar was taken from the love running project also.
+- Inspiration of bits of code such as hover styling and button styling were found on coding websites and then restylised to suit website
   
 ### Media
 
