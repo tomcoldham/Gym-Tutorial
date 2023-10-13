@@ -16,7 +16,7 @@ Primary audience would be anyone is a beginner at working out and is looking for
 -Contrasting text colour and background colour make it easy to read. on smaller screens the navigation bar collapses into a menu to save space.
 -css styling has been used to show which page the user is currently on and also navigation links are highlighted when the user hovers over them for a better use experience
 
-![Navigation]
+![Navigation] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture.PNG>
 
 - __The Intro page__
 
@@ -24,27 +24,27 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - It also contains a background image to catch the users intention. a darker image has been used to contrast against the white text.
   - A survey is also contained at the bottom which gives the user an element of interactivity and so their details can be collected.
   
-![Intro-page]
+![Intro-page] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture2.PNG>
 
 - __Pull day__
 
   - This provides the user with one of the three workout programmes. Like the other pages it contains a breif description of a pull day, as well 3 exercises
   - Eech exercise contains an image, some tips and a brief description to teach the user.
 
-![Pull day]
+![Pull-day] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/capture3.PNG>
 
 - __Push Day__
 
   - This page follows suit but with a different workout day with different exercises, like the push day all exercises come with a brief description an image and also tips for the user to grasp a basic understanding.
 
-![Push day]
+![Push-day] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture4.PNG>
 
 -__Leg Day__
 
 - Last is the leg day, again it contains 3 exercises for users to follow with the same level of information provided.
 - Content is divided clearly so the reader has an easy time following which tips and instructions belong with what exercise.
 
-![Leg Day]
+![Leg-Day] <https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/Capture5.PNG>
 
 - __The Footer__
 
