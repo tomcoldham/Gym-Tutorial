@@ -70,8 +70,8 @@ Primary audience would be anyone is a beginner at working out and is looking for
   - No errors were found when passing through the official (Jigsaw) validator
 - lighthouse
   - Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was lower due to images.
-  - 
-![Testing](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/footer.PNG)
+
+![Testing](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/lighthouse.PNG)
 
 ### Unfixed Bugs
 
