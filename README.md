@@ -71,8 +71,8 @@ Primary audience would be anyone is a beginner at working out and is looking for
 - lighthouse
   - Using lighthouse provided accessibility, best practices and SEO scores of 94+ across the board. However performance was lower due to images.
   
+![Testing](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/csstest.PNG)
 ![Testing](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/valtest.PNG)
-
 ![Testing](https://github.com/tomcoldham/Gym-Tutorial/blob/main/media/lighthouse.PNG)
 
 ### Unfixed Bugs
