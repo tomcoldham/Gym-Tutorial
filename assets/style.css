@@ -16,6 +16,7 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+/* Pushed footer down to bottom, prevent overlap from header */
 main {
     flex: 1 0 auto;
     margin-top: 43px;
@@ -83,16 +84,19 @@ input[type=submit] {
     margin-bottom: 20px;
 }
 
+/* hover effect on submit button */
 #hover:hover {
     background-color: darkgreen;
     transform: scale(1.2);
 }
 
+/* hover effect on nav elements */
 a:hover {
     font-size: 130%;
     color: red;
 }
 
+/* underline the current page */
 .active {
     text-decoration: underline;
 }
